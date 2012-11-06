@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[The Software Tailor]]></title>
+  <subtitle><![CDATA['The purpose of a programming system is to make a computer easy to use', in The Mythical Man-Month]]></subtitle>
+  <link href="http://rguerreiro.github.com/atom.xml" rel="self"/>
+  <link href="http://rguerreiro.github.com"/>
+  <updated>2012-11-06T13:19:02.242Z</updated>
+  <id>http://rguerreiro.github.com/</id>
+  <author>
+    <name><![CDATA[Rodrigo Guerreiro]]></name>
+  </author>
+  <generator uri="http://zespia.tw/hexo">Hexo</generator>
+  <entry>
+    <title type="html"><![CDATA[Hello World, Again]]></title>
+    <link href="http://rguerreiro.github.com/2012/11/06/Hello World, Again/"/>
+    <id>http://rguerreiro.github.com/2012/11/06/Hello World, Again/</id>
+    <published>2012-11-06T12:16:02.000Z</published>
+    <updated>2012-11-06T12:43:38.000Z</updated>
+    <content type="html"><![CDATA[<p>More than 2 years have passed between <a href="http://www.agilior.pt/blogs/rodrigo.guerreiro">my last post</a> and this one. Why? Probably because I didn&#39;t have anything interesting to say. Nevertheless you could have found me at <a href="http://twitter.com/rguerreiro">Twitter</a> for some random quotes and links.
+
+</p>
+<p>But lately I&#39;ve been digging into <a href="http://nodejs.org">node.js</a> and started to miss my blog posts, mainly to share some cool stuff I find.
+
+</p>
+<p>I don&#39;t promise a lot of posts, but from time to time you&#39;ll be hearing from me. Meanwhile keep following me: <a href="http://twitter.com/rguerreiro">@rguerreiro</a>.
+
+</p>
+<p>BTW, in case you&#39;re intrigued with the blog&#39;s title, here&#39;s the reason: I do believe that every software should be custom to it&#39;s users\customers needs (hence the blog&#39;s subtitle), just like a tailor cuts the suit to fit your body.
+
+</p>
+<p>Until next time ;)</p>
+]]></content>
+  </entry>
+</feed>
